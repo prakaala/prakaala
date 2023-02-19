@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prabhash.
-- 👀 I’m interested in backend development. I am curious on how the web 3 will shape in the future.
+- 👀 I’m interested in backend development. I am curious on how quantum computing will shape in the future.
 - 🌱 I’m currently learning ReactJs and Node Js. 
 - 💞️ I’m looking to collaborate on any projects. I am up for challenging tasks. I hope that would be a great learning curve.
 - 📫 Shoot me an email at gc.prabhash37@gmail.com
