@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabhash.
 - 👀 I’m interested in backend development. I am curious on how quantum computing will shape in the future.
-- 🌱 I’m studying Machine Learning and the use of neural networks. I would love to work on infrastructure that revolve around neural nets.  
+- 🌱 I’m studying Machine Learning and the use of neural networks. I am also interested in Heterogeneous Computing which utilized the power of both CPUs and GPUs. 
 - 💞️ I’m looking to collaborate on any projects. I am up for challenging tasks. I hope that would be a great learning curve.
 - 📫 Shoot me an email at gc.prabhash37@gmail.com
 
